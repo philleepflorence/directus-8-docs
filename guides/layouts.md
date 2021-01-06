@@ -15,7 +15,7 @@ Each layout also includes options used for initial setup and style adjustments. 
 As you configure your layout and its options, your setup will be saved in your user preferences. Next time you go to that page, even if you log out or use a different computer, you'll still see things the same way.
 
 ::: tip Bookmarking Layouts
-You can also create multiple layout configurations (including filters), and easily switch between them, by saving them as bookmarks. [Learn More about Bookmarks](./user-guide.html#bookmarking)
+You can also create multiple layout configurations (including filters), and easily switch between them, by saving them as bookmarks. [Learn More about Bookmarks](/guides/user-guide.html#bookmarking)
 :::
 
 ## Core Layouts

@@ -16,7 +16,7 @@ Unfortunately, GitHub Sponsors doesn't support one-time payments. Instead, you c
 
 ### Merch
 
-Our merchandise is a great way to support Directus – you get a shirt and we get some financial support and free advertising. We don't have an online store, but if you make a financial donation using the above methods we'd be happy to send you stuff. Just be sure to message us with sizing/shipping details. T-Shirts and bags require a minimum donation of $25 to cover shipping within the US, or $50 if shipping internationally. Sweatshirts and other premium merch is reserved for partners, sponsors, and our Core team of contributors.
+Our merchandise is a great way to support Directus – you get a shirt and we get some financial support and free advertising. We don't have an online store, but if you make a financial donation using the above methods we'd be happy to send you stuff. Just be sure to message us with sizing/shipping details. T-Shirts and bags require a minimum donation of $25 to cover shipping within the US, or $50 if shipping internationally. Sweatshirts and other premium merchandise is reserved for partners, sponsors, and our Core team of contributors.
 
 ### Commissioned Features
 
@@ -24,7 +24,7 @@ Another great way to get something back for your financial support (other than o
 
 ### Sponsored Bugs
 
-Is that bug not getting solved fast enough for your needs? We triage all of our reported bugs ([App](https://github.com/directus/app/projects/17) and [API](https://github.com/directus/api/projects/17)) based on priority and how long the fix is estimated to take. If you need a bug fixed sooner you can reach out to us about "sponsoring" it. We provide an cost estimate for subsidizing a more expeditious resolution.
+Is that bug not getting solved fast enough for your needs? We triage all of our reported bugs ([App](https://github.com/directus/v8-archive/projects/17) and [API](https://github.com/directus/v8-archive/projects/17)) based on priority and how long the fix is estimated to take. If you need a bug fixed sooner you can reach out to us about "sponsoring" it. We provide a cost estimate for subsidizing a more expeditious resolution.
 
 ### Premium Support
 
@@ -36,13 +36,13 @@ Most of our financial support is used to compensate our Core Staff, so another e
 
 ### Pull Requests
 
-Whether squashing [bugs](https://github.com/directus/app/issues?q=is%3Aopen+is%3Aissue+label%3Abug), [optimizing](https://github.com/directus/app/issues?q=is%3Aopen+is%3Aissue+label%3Aoptimization) the codebase, increasing test coverage, or adding [new features](https://github.com/directus/app/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement), submitting pull-requests through GitHub is extremely valuable. The best places to contribute are our [App](https://github.com/directus/app) (front-end) and [API](https://github.com/directus/api) (back-end).
+Whether squashing [bugs](https://github.com/directus/v8-archive/issues?q=is%3Aopen+is%3Aissue+label%3Abug), [optimizing](https://github.com/directus/v8-archive/issues?q=is%3Aopen+is%3Aissue+label%3Aoptimization) the codebase, increasing test coverage, or adding [new features](https://github.com/directus/v8-archive/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement), submitting pull-requests through GitHub is extremely valuable. The best places to contribute are our [App](https://github.com/directus/v8-archive/tree/master/app) (front-end) and [API](https://github.com/directus/v8-archive/tree/master/api) (back-end).
 
 [Learn more about Contributing](/getting-started/contributing.md)
 
 ### Docs
 
-No technical skills? Not enough time for a pull-request? No problem! We have plenty of [user guides and documentation](https://docs.directus.io/) that could use some extra attention. Fix spelling, add code examples, help organize, write new articles, or just check for [broken links](#)... it all helps.
+No technical skills? Not enough time for a pull-request? No problem! We have plenty of [user guides and documentation](https://v8.docs.directus.io/) that could use some extra attention. Fix spelling, add code examples, help organize, write new articles, or just check for [broken links](#)... it all helps.
 
 ### Translations
 
@@ -58,7 +58,7 @@ No money or time?? You can still help us out. You can have the best software in 
 
 ### GitHub Stars
 
-GitHub is the primary metric by which we measure our success. We literally have a display in our office that just shows us the live GitHub star count. If you have five seconds to spare, [head over to our repos and give them a star](https://github.com/directus/directus)! As an added bonus, when Directus gets enough stars in a short period of time, we become featured as "trending" on GitHub and even more people learn about our software.
+GitHub is the primary metric by which we measure our success. We literally have a display in our office that just shows us the live GitHub star count. If you have five seconds to spare, [head over to our repos and give them a star](https://github.com/directus/v8-archive)! As an added bonus, when Directus gets enough stars in a short period of time, we become featured as "trending" on GitHub and even more people learn about our software.
 
 ## Social Posts
 

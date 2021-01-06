@@ -42,7 +42,7 @@ If your project only has one administrator and they become suspended after too m
 
 -----
 
-* [Learn more about Authentication](./authentication.html)
+* [Learn more about Authentication](/guides/authentication.html)
 
 ### Files & Thumbnails
 
@@ -50,28 +50,28 @@ If your project only has one administrator and they become suspended after too m
     * **UUID (Obfuscated)**: A universally unique identifier that helps keep files private
     * **File Name (Readable)**: A human readable name based on the original upload's title
 * **File MimeType Whitelist** — The mimetypes allowed to be uploaded. If empty, all types are allowed.
-* **Asset Whitelist** — Defines the details of image assets that can be dynamically generated. [Learn more](./files.md#whitelisting-thumbnails).
+* **Asset Whitelist** — Defines the details of image assets that can be dynamically generated. [Learn more](/guides/files.md#whitelisting-thumbnails).
 * **YouTube API Key** — When added, this allows Directus to fetch more metadata for YouTube embeds.
 
 -----
 
-* [Learn more about Files & Thumbnails](./files.html)
+* [Learn more about Files & Thumbnails](/guides/files.html)
 
 ## Collections & Fields
 
 Build your custom data model by creating and configuring Collections, Fields, and Interfaces.
 
-* [Learn more about Collections](./collections.html)
-* [Learn more about Fields](./fields.html)
-* [Learn more about Interfaces](./interfaces.html)
+* [Learn more about Collections](/guides/collections.html)
+* [Learn more about Fields](/guides/fields.html)
+* [Learn more about Interfaces](/guides/interfaces.html)
 
 ## Roles & Permissions
 
 Create User Roles, set their permissions, and configure other options. This is also where you manage the Admin and Public roles.
 
-* [Learn more about Roles](./roles.html)
-* [Learn more about Permissions](./permissions.html)
-* [Learn more about Users](./users.html)
+* [Learn more about Roles](/guides/roles.html)
+* [Learn more about Permissions](/guides/permissions.html)
+* [Learn more about Users](/guides/users.html)
 
 ## WebHooks
 
@@ -81,7 +81,7 @@ Create and manage your project's webhooks.
 
 Provides an overview of system activity for accountability purposes.
 
-* [Learn more about Accountability](./accountability.html#activity)
+* [Learn more about Accountability](/guides/accountability.html#activity)
 
 ## Other Cards
 

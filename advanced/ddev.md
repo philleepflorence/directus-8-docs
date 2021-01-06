@@ -7,9 +7,9 @@
 * Install DDEV on your machine by following the [installation instructions](https://ddev.readthedocs.io/en/stable/#installation) of your operating system.
 * Clone the api repo.
 ```bash
-git clone https://github.com/directus/api.git
+git clone https://github.com/directus/v8-archive.git
 OR
-git clone git@github.com:directus/api.git
+git clone git@github.com:directus/v8-archive.git
 ```
 * Run ddev config in the API folder and set the `Docroot` to `public` and project type to `php`.
 ```bash
@@ -37,9 +37,9 @@ ddev describe
 
 * Clone the app repo.
 ```bash
-git clone https://github.com/directus/app.git
+git clone https://github.com/directus/v8-archive.git
 OR
-git clone git@github.com:directus/app.git
+git clone git@github.com:directus/v8-archive.git
 ```
 * Install dependencies (might need admin privileges).
 ```bash

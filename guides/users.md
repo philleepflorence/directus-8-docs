@@ -14,13 +14,13 @@ Administrators can create new users by clicking on the "+" button in the top rig
     * **Draft** — Still being created. Can not authenticate.
     * **Invited** — Has been invited to the system, but hasn't yet accepted.
     * **Active** — This is the normal state of a user.
-    * **Suspended** — Inactive state set by admins or when users reach the [Login Attempts Allowed](./admin-guide.html#security)
+    * **Suspended** — Inactive state set by admins or when users reach the [Login Attempts Allowed](/guides/admin-guide.html#security)
     * **Deleted** — For accountability reasons (activity relationships), users are only "soft" deleted.
 * **First Name** — The user's given name
 * **Last Name** — The user's surname
 * **Email** — Part of the user's unique credentials for authenticating
 * **Email Notifications** — Whether or not a user should receive important notifications over email
-* **Password** — Credentials for authenticating, validated against the [Password Policy](./admin-guide.html#security)
+* **Password** — Credentials for authenticating, validated against the [Password Policy](/guides/admin-guide.html#security)
 * **Role** — Users must belong to one (and only one) role, which defines their access and permissions
 * **Company** — An optional field to track the user's office, location, or organization
 * **Title** — An optional field to track the user's company title or position
@@ -28,7 +28,7 @@ Administrators can create new users by clicking on the "+" button in the top rig
 * **Locale** — Used to display any available translations in the App
 * **Avatar** — A 200x200 image used throughout the App to more easily identify users
 * **Theme** — Sets the App's theme. Options include: Light, Dark, and Auto (based on user's system)
-* **Enable 2FA** — Turns on Two-Factor Authentication. May be required by the role's [Enforce 2FA](/roles.html#creating-roles)
+* **Enable 2FA** — Turns on Two-Factor Authentication. May be required by the role's [Enforce 2FA](/guides/roles.html#creating-roles)
 * **Token** — (Hidden) This is not editable from within the App. See the note below:
 
 ::: tip Creating and Editing Static Tokens

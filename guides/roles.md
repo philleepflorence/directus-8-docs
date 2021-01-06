@@ -18,20 +18,20 @@ You can not assign users to the Public Role, it is only used to configure public
 
 You can create additional roles to better organize users or limit their access to content. A role can be created by clicking on the "+" button in the top right of _Settings > Roles & Permissions_ and adding a name. Once created, you will be take to the Role Detail page where you can further configure its options.
 
-* **Permissions** — [Learn more about Permissions](./permissions.md)
+* **Permissions** — [Learn more about Permissions](/guides/permissions.md)
 * **Name** — The name of the role.
 * **Description** — An internal note to help administrators understand its purpose.
 * **IP Whitelist** — A CSV of IP addresses allowed to connect to the API that can be used to limit user access.
 * **Module Listing** — Allows you to override the items displayed in the module sidebar of the App.
 * **Collection Listing** — Allows you to override the items displayed in the navigation sidebar of the App.
-* **Enforce 2FA** — Forces the role's users to setup 2FA before being able to login. [Learn more about 2FA](./authentication.html#two-factor-authentication-2fa)
+* **Enforce 2FA** — Forces the role's users to setup 2FA before being able to login. [Learn more about 2FA](/guides/authentication.html#two-factor-authentication-2fa)
 * **Users** — A listing of all users within this role.
 
 ## Module Listing
 
 The Module Sidebar is the leftmost part of the Directus App. By default it provides links to the following:
 
-* **Project URL** — Can not be removed. Configure the color, logo and URL within [Project Settings](./admin-guide.html#project)
+* **Project URL** — Can not be removed. Configure the color, logo and URL within [Project Settings](/guides/admin-guide.html#project)
 * **Collections** — An internal link to the Collections Page
 * **User Directory** — An internal link to the User Directory
 * **File Library** — An internal link to the File Library

@@ -12,7 +12,7 @@ To get started, go to _Settings > Collections & Fields_, choose the Collection y
 
 ### 1. Choose an Interface
 
-Do you want a Toggle? Text Input? Map? Dropdown? Relationship? There are many Core Interfaces available here, with even more Extension Interfaces available. This is always the first step when creating a new field, and dictates the rest of the process. [Learn more about Interfaces](./interfaces.html)
+Do you want a Toggle? Text Input? Map? Dropdown? Relationship? There are many Core Interfaces available here, with even more Extension Interfaces available. This is always the first step when creating a new field, and dictates the rest of the process. [Learn more about Interfaces](/guides/interfaces.html)
 
 ### 2. Database Options
 

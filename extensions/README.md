@@ -30,7 +30,7 @@ The App includes an empty `/script.js` file where you can add additional functio
 
 The Directus Application includes an empty `/style.css` file to override any part of the App with custom styles. Nearly every component in the platform has a class associated with it you can use to tweak the styles.
 
-Most styling related properties in the application are using CSS Custom Properties (variables). These variables can be overwritten in your custom styles file to efficiently change the appearance of the whole app. All variables that can be overwritten can be referenced in the [global styles file](https://github.com/directus/app/blob/master/src/assets/global.scss).
+Most styling related properties in the application are using CSS Custom Properties (variables). These variables can be overwritten in your custom styles file to efficiently change the appearance of the whole app. All variables that can be overwritten can be referenced in the [variables styles file](https://github.com/directus/v8-archive/blob/master/app/src/design/_variables.scss).
 
 ::: tip
 If you have a style tweak that would benefit all users of Directus, please consider opening a Pull Request for it!

@@ -285,7 +285,7 @@ The file library is an annex of all files added to Directus. Files may be added 
 
 Directus also supports multiple [storage adapters](../extensions/storage-adapters.md), so you may have the option to save files to different locations.
 
-There's also an automatic [thumbnailer](./files.md) included, so you can easily save your original files at different sizes. Allowed thumbnail sizes are setup by your administrator.
+There's also an automatic [thumbnailer](/guides/files.md) included, so you can easily save your original files at different sizes. Allowed thumbnail sizes are setup by your administrator.
 
 By default the File Library displays as a Card layout with thumbnails, but you can change this in the [Info Sidebar](#info-sidebar).
 
@@ -334,4 +334,4 @@ The features described above assume you have full permissions, however your user
 
 Keep permissions in mind when discussing content or sending links to colleagues, as they may not be able to see/edit the same items you have access to.
 
-Only users with the Administrator role are guaranteed to see _everything_ in the system, including some special features only available to them. Learn more about the [Administrator Role](./roles.md).
+Only users with the Administrator role are guaranteed to see _everything_ in the system, including some special features only available to them. Learn more about the [Administrator Role](/guides/roles.md).

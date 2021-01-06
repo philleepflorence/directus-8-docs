@@ -46,7 +46,7 @@ const client = new DirectusSDK({
 });
 ```
 
-However, Directus provides each extension VueJS component with `this.$api`, an instance of `DirectusSDK` already logged in. Read more at https://docs.directus.io/advanced/app/sdk-api.html.
+However, Directus provides each extension VueJS component with `this.$api`, an instance of `DirectusSDK` already logged in. Read more at https://v8.docs.directus.io/advanced/app/sdk-api.html.
 
 ```js
 export default {

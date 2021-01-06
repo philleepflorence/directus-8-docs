@@ -103,7 +103,7 @@ There is an interface debugger under Directus App Settings which you can use to 
 
 ## Styling
 
-Directus uses CSS Custom Properties across the application to enable theming and style consistencies. Check the [`global.scss`](https://github.com/directus/app/blob/master/src/assets/global.scss) file in the app for the full list of available variables.
+Directus uses CSS Custom Properties across the application to enable theming and style consistencies. Check the [`variables.scss`](https://github.com/directus/v8-archive/blob/master/app/src/design/_variables.scss) file in the app for the full list of available variables.
 
 ### Colors
 

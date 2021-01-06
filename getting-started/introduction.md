@@ -69,7 +69,7 @@ This is the actual Directus software you would install on your server. It includ
 
 ### Directus API
 
-This is the "engine" of Directus, providing a dynamic API for any MySQL database. It is bundled in the Directus Suite. The [codebase](https://github.com/directus/api) is written primarily in PHP and uses Zend-DB for database abstraction.
+This is the "engine" of Directus, providing a dynamic API for any MySQL database. It is bundled in the Directus Suite. The [codebase](https://github.com/directus/v8-archive/tree/master/api) is written primarily in PHP and uses Zend-DB for database abstraction.
 
 ### Directus Application
 
@@ -114,7 +114,7 @@ Definitions and other various terms that are exclusive to the Directus Ecosystem
 
 * **[Alias](/guides/fields.html#alias-fields)** — A field that does not actually map to a database column (eg: a O2M field).
 * **Boilerplate** — The base schema and system content included in a fresh/blank copy of Directus.
-* **[Bookmarks](](../guides/user-guide.html#bookmarking))** — A specific view of a collection scoped to a user, role, or project.
+* **[Bookmarks](/guides/user-guide.html#bookmarking)** — A specific view of a collection scoped to a user, role, or project.
 * **Client** — An external application using data managed by Directus (eg: a website, native app, kiosk, etc).
 * **[Collection](/guides/collections.html)** — A grouping of similar items. Each collection represents a table in your database.
 * **Collection Preset** — See "bookmark".

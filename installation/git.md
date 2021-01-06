@@ -32,7 +32,7 @@ You are required to run Directus using HTTPS.
 Run the following command:
 
 ```
-git clone https://github.com/directus/directus.git /var/www/directus
+git clone https://github.com/directus/v8-archive.git /var/www/directus
 ```
 
 ::: tip

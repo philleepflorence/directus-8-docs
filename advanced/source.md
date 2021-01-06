@@ -4,7 +4,7 @@
 
 ## API Source
 
-In order to work on the API, you'll need to install the source version locally. The application sourcecode is being hosted in the [directus/api](https://github.com/directus/api) repo on GitHub.
+In order to work on the API, you'll need to install the source version locally. The application sourcecode is being hosted in the [directus/api](https://github.com/directus/v8-archive/tree/master/api) repo on GitHub.
 
 ### Requirements
 
@@ -32,13 +32,13 @@ In order to work on the API, you'll need to install the source version locally. 
 Clone the repo by running
 
 ```bash
-git clone https://github.com/directus/api.git
+git clone https://github.com/directus/v8-archive.git
 ```
 
 OR
 
 ```bash
-git clone git@github.com:directus/api.git
+git clone git@github.com:directus/v8-archive.git
 ```
 
 ::: warning Fork
@@ -90,7 +90,7 @@ To quickly debug the application you can use [our demo API](https://next.demo-ap
 
 The application is built with [Vue.js](https://vuejs.org) and heavily relies on [Node.js](https://nodejs.org) to be bundled / transpiled to browser-usable code. In order to work on Directus, you need [Node.js](https://nodejs.org) v12.x or higher.
 
-The application source code is being hosted in the [directus/app](https://github.com/directus/app) repo on GitHub.
+The application source code is being hosted in the [directus/app](https://github.com/directus/v8-archive/tree/master/app) repo on GitHub.
 
 ### Steps
 
@@ -99,13 +99,13 @@ The application source code is being hosted in the [directus/app](https://github
 Clone the repo by running
 
 ```bash
-git clone https://github.com/directus/app.git
+git clone https://github.com/directus/v8-archive.git
 ```
 
 OR
 
 ```bash
-git clone git@github.com:directus/app.git
+git clone git@github.com:directus/v8-archive.git
 ```
 
 ::: warning Fork

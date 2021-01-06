@@ -6,21 +6,21 @@
 
 It is important to understand how our codebases are organized and why. Directus is decoupled, which means that the Application and API have separate codebases within two different GitHub repositories. Let's go through each of our main repositories in more detail.
 
-### [directus/api](https://github.com/directus/api)
+### [directus/api](https://github.com/directus/v8-archive/tree/master/api)
 
 An API wrapper for custom SQL databases. It allows _projects_ to easily communicate with the SQL databases, and is the "engine" of the Directus Suite.
 
-### [directus/app](https://github.com/directus/app)
+### [directus/app](https://github.com/directus/v8-archive/tree/master/app)
 
 An admin GUI for managing Directus API instances. It allows _humans_ to interact with the API, and wraps the API with a friendly user interface so that anyone can manage content through their web browser.
 
-### [directus/directus](https://github.com/directus/directus)
+### [directus/directus](https://github.com/directus/v8-archive)
 
 A readonly combined build of the API and App. There is no unique code here, it is simply a convenient way to install the Directus API, App, and all dependencies.
 
 ### [directus/docs](https://github.com/directus/docs)
 
-This is what you're looking at right now. It stores all of the Documentation for Directus in markdown files that are easily editable by the community. [Our web Docs](https://docs.directus.io/) are automatically generated from these files using [VuePress](https://vuepress.vuejs.org/).
+This is what you're looking at right now. It stores all of the Documentation for Directus in markdown files that are easily editable by the community. [Our web Docs](https://v8.docs.directus.io/) are automatically generated from these files using [VuePress](https://vuepress.vuejs.org/).
 
 ### [directus/docker](https://github.com/directus/docker)
 
@@ -35,11 +35,11 @@ The main thing to be aware of when submitting a new Directus feature request, is
 
 ### Which Repository?
 
-If your new feature is specific to the App (the part you see and use in the browser) then you'll want to submit [here](https://github.com/directus/app/issues/new?template=Feature_request.md). Otherwise, if it is an API feature you can submit [here](https://github.com/directus/api/issues/new?template=Feature_request.md). If you're not sure or the feature is more conceptual or global, then submit it to the App and we'll organize it for you!
+If your new feature is specific to the App (the part you see and use in the browser) then you'll want to submit [here](https://github.com/directus/v8-archive/issues/new?template=Feature_request.md). Otherwise, if it is an API feature you can submit [here](https://github.com/directus/api/issues/new?template=Feature_request.md). If you're not sure or the feature is more conceptual or global, then submit it to the App and we'll organize it for you!
 
 ### Browsing Existing Requests
 
-Before adding a new request, you should also first [search](https://github.com/directus/app/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) to see if it has already been submitted. All feature requests should include the `enhancement` label, so you can filter by that. And remember to also check _closed_ issues since your feature might have already been submitted in the past and either [rejected](#Our-80/20-Rule) or already implemented.
+Before adding a new request, you should also first [search](https://github.com/directus/v8-archive/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) to see if it has already been submitted. All feature requests should include the `enhancement` label, so you can filter by that. And remember to also check _closed_ issues since your feature might have already been submitted in the past and either [rejected](#Our-80/20-Rule) or already implemented.
 
 Also, if you want to see the most highly requested features you can sort by `:+1:` (the thumbs-up emoji).
 

@@ -11,18 +11,18 @@
 To create a collection, head over to the _Collections & Fields_ page in the _Admin Settings_. From here, click the "+" button in the top right and enter the details for your collection into the modal. Once created, you are taken to the Collection Detail page where several other settings can be configured.
 
 * **Name** — The actual table name in the database. Automatically sanitized as you type, with letters converted to lowercase, illegal characters removed, and spaces converted to underscores.
-* **Status** — Adds a `status` field to the collection. [Learn More](./interfaces.html#status)
-* **Sort** — Adds a `sort` field to the collection. [Learn More](./interfaces.html#sort)
-* **Owner** — Adds a `owner` field to the collection. [Learn More](./interfaces.html#user-created)
-* **Created On** — Adds a `created_by` field to the collection. [Learn More](./interfaces.html#datetime-created)
-* **Modified By** — Adds a `modified_by` field to the collection. [Learn More](./interfaces.html#user-updated)
-* **Modified On** — Adds a `modified_on` field to the collection. [Learn More](./interfaces.html#datetime-updated)
+* **Status** — Adds a `status` field to the collection. [Learn More](/guides/interfaces.html#status)
+* **Sort** — Adds a `sort` field to the collection. [Learn More](/guides/interfaces.html#sort)
+* **Owner** — Adds a `owner` field to the collection. [Learn More](/guides/interfaces.html#user-created)
+* **Created On** — Adds a `created_by` field to the collection. [Learn More](/guides/interfaces.html#datetime-created)
+* **Modified By** — Adds a `modified_by` field to the collection. [Learn More](/guides/interfaces.html#user-updated)
+* **Modified On** — Adds a `modified_on` field to the collection. [Learn More](/guides/interfaces.html#datetime-updated)
 
 ### Configuring Collections
 
 #### Fields
 
-This is where you would set up the fields within this collection. [Learn More About Fields](./fields.html)
+This is where you would set up the fields within this collection. [Learn More About Fields](/guides/fields.html)
 
 #### Name
 
@@ -38,7 +38,7 @@ The collection's note field is for internal use only. It helps your users unders
 
 #### Hidden
 
-Some helper collections are not used directly (eg: junctions) and can be globally hidden. As the name implies, this will only _hide_ the collections. It doesn't restrict access to its data. In order to restrict access to this collection, you can use [Permissions](./permissions.md).
+Some helper collections are not used directly (eg: junctions) and can be globally hidden. As the name implies, this will only _hide_ the collections. It doesn't restrict access to its data. In order to restrict access to this collection, you can use [Permissions](/guides/permissions.md).
 
 #### Single
 

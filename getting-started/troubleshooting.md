@@ -48,7 +48,7 @@ If you're having difficulty getting Directus up-and-running, this setup checklis
     - `/logs`
     - `/public/uploads` (or your configured upload directory)
 
-7. **Are you using the [latest release of Directus](https://github.com/directus/directus/releases)?**
+7. **Are you using the [latest release of Directus](https://github.com/directus/v8-archive/releases)?**
 
 8. **Did you install or create the API configuration file manually?**
 
@@ -91,7 +91,7 @@ Directus does not currently provide any tools for migrating or deploying your sc
 
 Currently, the only SDK maintained for Directus is the JavaScript SDK, it's difficult to be Open-Source and maintain multiple SDKs manually.
 
-We're hoping for, and awaiting support from the [OpenAPI 3.0 Spec](https://github.com/OAI/OpenAPI-Specification/issues/1706) to autmatically generate any and all other SDKs. Giving a thumbs-up could really help! You can, follow the progress of Directus SDK coverage [here](https://github.com/directus/directus/issues/2255).
+We're hoping for, and awaiting support from the [OpenAPI 3.0 Spec](https://github.com/OAI/OpenAPI-Specification/issues/1706) to autmatically generate any and all other SDKs. Giving a thumbs-up could really help! You can, follow the progress of Directus SDK coverage [here](https://github.com/directus/v8-archive/issues/2255).
 
 When using PHP, we recommend using Guzzle for the time-being and call the [API](/api/reference.html#introduction) directly.
 
@@ -110,7 +110,7 @@ This is an issue with the database itself. Please confirm that your database, ta
 Directus is offered as free and open-source for users who wish to self-host the software. However, with millions of installs around the world, there is no way that our small team can offer free support. Below we've outlined the different support options available.
 
 :::tip
-If your issue really seems like a `bug` (not a configuration problem) then please report it on GitHub issues for the [API](https://github.com/directus/api/issues/new?template=Bug_report.md) or [App](https://github.com/directus/app/issues/new?template=Bug_report.md). The more information you can provide, the more likely it is that we can fix the issue quickly.
+If your issue really seems like a `bug` (not a configuration problem) then please report it on GitHub issues for the [API](https://github.com/directus/api/issues/new?template=Bug_report.md) or [App](https://github.com/directus/v8-archive/issues/new?template=Bug_report.md). The more information you can provide, the more likely it is that we can fix the issue quickly.
 :::
 
 ### Community Support
